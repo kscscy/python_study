@@ -1,3 +1,4 @@
+#Ch1 Binary Search
 def binary_search(list, item):
     low = 0                     # 탐색의 시작
     high = len(list) - 1        # 탐색의 끝

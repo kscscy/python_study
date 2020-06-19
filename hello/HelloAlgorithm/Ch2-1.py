@@ -1,3 +1,4 @@
+#Ch2 Selection Sort
 def findSmallest(arr):
     smallest = arr[0]
     smallest_index = 0
